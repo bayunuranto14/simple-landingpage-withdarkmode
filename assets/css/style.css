@@ -1,0 +1,52 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.white {
+  color: white;
+}
+.mode {
+  float: right;
+  margin: 20px;
+}
+.change {
+  cursor: pointer;
+  text-align: center;
+  padding: 5px;
+  margin-left: 8px;
+}
+
+.card-light {
+  background-color: #fff;
+  color: #222;
+}
+
+.card-dark {
+  background-color: #e2e;
+}
+
+.dark {
+  background-color: #222;
+  color: #e6e6e6;
+}
+
+.text-light {
+  color: #e6e6e6;
+}
+.container-fluid {
+  border-radius: 15px;
+}
+
+.img-fluid {
+  border-radius: 25px;
+  width: 25%;
+  height: 25%;
+}
